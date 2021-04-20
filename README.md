@@ -1,1 +1,1 @@
-# my-ranks-api
+# My Ranks API
